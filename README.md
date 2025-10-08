@@ -1,1 +1,1 @@
-forked repo from darkseal organistion
+forked repo from darkseal repo
